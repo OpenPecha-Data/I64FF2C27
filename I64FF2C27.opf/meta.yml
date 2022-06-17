@@ -1,0 +1,36 @@
+id: I64FF2C27
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:23:09.507447'
+last_modified: '2022-06-17T12:23:09.507460'
+parser: null
+source_metadata:
+  title: Lamdré Series
+  language: en
+  description: 'Texts related to the theory and practice of Lamdré (lam ''bras), or
+    Path with Its Fruit:'
+  volume:
+    fDBD4:
+      title: 'The Jewelled Rosary: An Aspiration Toward Longed-for Aims'
+      base_file: fDBD4.txt
+      order: 1
+      parent: Aspiration Prayers
+    f1260:
+      title: Supplement to the Lineage Prayer for the Lamdré Instructions Composed
+        by Tsarchen
+      base_file: f1260.txt
+      order: 2
+      parent: Lineage Prayers
+    f914B:
+      title: Drawing Out the Quintessence of the View
+      base_file: f914B.txt
+      order: 3
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
